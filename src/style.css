@@ -67,8 +67,13 @@ body {
   opacity: 0.8;
 }
 
+.weather-forecast-temperature-max {
+  color: rgb(238, 32, 32);
+}
+
 .weather-forecast-temperature-min {
   opacity: 0.8;
+  color: rgb(66, 3, 238);
 }
 
 .weather-forecast-temperatures {
